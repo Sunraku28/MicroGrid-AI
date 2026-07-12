@@ -72,15 +72,15 @@ graph TD
 
 ## Project Structure
 
-MicroGrid-AI/
-│
-├── app.py                      # FastAPI backend & optimization logic
-├── index.html                  # Live dashboard UI & telemetry simulator
-├── requirements.txt            # Python dependencies (FastAPI, TensorFlow, etc.)
-├── urban_optimizer_model.keras # Pre-trained BiLSTM Neural Network
-├── scaler.pkl                  # Scikit-Learn data normalizer
-├── Smart_Grid.ipynb            # Original Jupyter Notebook for training the AI on PJM data
-└── README.md                   # Project documentation
+* MicroGrid-AI/
+* │
+* ├── app.py                      # FastAPI backend & optimization logic
+* ├── index.html                  # Live dashboard UI & telemetry simulator
+* ├── requirements.txt            # Python dependencies (FastAPI, TensorFlow, etc.)
+* ├── urban_optimizer_model.keras # Pre-trained BiLSTM Neural Network
+* ├── scaler.pkl                  # Scikit-Learn data normalizer
+* ├── Smart_Grid.ipynb            # Original Jupyter Notebook for training the AI on PJM data
+* └── README.md                   # Project documentation
 
 ## Live Website
 
